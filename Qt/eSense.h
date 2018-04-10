@@ -38,7 +38,7 @@ private:
     int dbPort = 3306;
     QString dbName = "wordpress";
     QString dbUser = "root";
-    QString dbPwd = "tutankamon";//"#pisicileebidoane";
+    QString dbPwd = "password";
     QSqlDatabase database;
     QString dbTableWeather = "wp_weather";
     int curNrRows = 0;
